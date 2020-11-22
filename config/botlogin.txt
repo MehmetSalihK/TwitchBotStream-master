@@ -1,0 +1,19 @@
+#PhantomBot Configuration File
+#Sun Nov 22 22:32:10 CET 2020
+musicenable=true
+channel=parisdekibebegg
+webenable=true
+ytauth=30YKHzmod4JOO07bD0KeY0RCT5ehf0
+webauth=cW5rh0krknl3YJ0UMyre68Y0JH5hqs
+webauthro=4qJBbUgZD7U7nOSM7bWb87hGQuBkjv
+panelpassword=MustafaMehmet20
+usehttps=true
+oauth=oauth\:upvr1mtqjy6ipl7slit4e6xxb6ee3x
+whisperlimit60=60.0
+owner=parisdekibebegg
+baseport=25000
+msglimit30=19.0
+ytauthro=p7myqKNNbR7ZVklIrsCSc2pvJnBtKd
+paneluser=parisdekibot
+user=parisdekibebegbot
+apioauth=oauth\:t10t2l3vj9biwbwkf6xvpu6qtdq73y

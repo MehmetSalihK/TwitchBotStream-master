@@ -1,0 +1,20 @@
+[11-22-2020 @ 21:32:23.533 GMT] [init.js:398] Bot modules loaded. Initializing main functions...
+[11-22-2020 @ 21:32:24.942 GMT] [logging.js:238] Starting Log Rotation
+[11-22-2020 @ 21:32:24.946 GMT] [logging.js:250] Finished Log Rotation
+[11-22-2020 @ 21:40:57.173 GMT] [init.js:398] Bot modules loaded. Initializing main functions...
+[11-22-2020 @ 21:40:58.491 GMT] [logging.js:238] Starting Log Rotation
+[11-22-2020 @ 21:40:58.498 GMT] [logging.js:250] Finished Log Rotation
+[11-22-2020 @ 22:33:28.671 GMT] [raffleSystem.js:368] A raffle was closed by: parisdekibebegbot.
+[11-22-2020 @ 22:33:53.082 GMT] [raffleSystem.js:359] A raffle was opened by: parisdekibebegbot. Arguments (open 0 !10 0 -usetime )
+[11-22-2020 @ 22:34:03.607 GMT] [raffleSystem.js:368] A raffle was closed by: parisdekibebegbot.
+[11-22-2020 @ 22:34:45.639 GMT] [raffleSystem.js:368] A raffle was closed by: parisdekibebegbot.
+[11-22-2020 @ 22:34:55.118 GMT] [raffleSystem.js:359] A raffle was opened by: parisdekibebegbot. Arguments (open 0 !10 0 -usepoints )
+[11-22-2020 @ 22:35:14.264 GMT] [raffleSystem.js:368] A raffle was closed by: parisdekibebegbot.
+[11-22-2020 @ 22:35:31.834 GMT] [raffleSystem.js:359] A raffle was opened by: parisdekibebegg. Arguments (open)
+[11-22-2020 @ 22:35:53.802 GMT] [raffleSystem.js:359] A raffle was opened by: parisdekibebegbot. Arguments (open 0 !10 0 -usepoints )
+[11-22-2020 @ 22:39:10.695 GMT] [raffleSystem.js:368] A raffle was closed by: parisdekibebegbot.
+[11-22-2020 @ 22:42:04.250 GMT] [raffleSystem.js:359] A raffle was opened by: parisdekibebegbot. Arguments (open 0 !10 0 -usepoints )
+[11-22-2020 @ 22:42:12.152 GMT] [raffleSystem.js:368] A raffle was closed by: parisdekibebegbot.
+[11-22-2020 @ 22:42:52.676 GMT] [raffleSystem.js:359] A raffle was opened by: parisdekibebegbot. Arguments (open 0 !10 0 -usepoints )
+[11-22-2020 @ 22:42:59.959 GMT] [raffleSystem.js:368] A raffle was closed by: parisdekibebegbot.
+[11-22-2020 @ 22:43:05.896 GMT] [raffleSystem.js:359] A raffle was opened by: parisdekibebegbot. Arguments (open 0 !10 0 -usepoints )

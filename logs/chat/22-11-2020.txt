@@ -1,0 +1,51 @@
+[11-22-2020 @ 21:39:01.300 GMT] parisdekibebegbot: @parisdekibebegg,  parisdekibebegg has been on Twitch since Aug 11, 2018. (Joined 834 days ago)
+[11-22-2020 @ 21:39:01.306 GMT] parisdekibebegg: !age
+[11-22-2020 @ 21:39:36.970 GMT] parisdekibebegbot: @parisdekibebegg, parisdekibebegg is currently offline.
+[11-22-2020 @ 21:39:36.971 GMT] parisdekibebegg: !uptime
+[11-22-2020 @ 21:39:37.478 GMT] streamelements: @parisdekibebegg, parisdekibebegg has been offline for 2 hours 54 mins
+[11-22-2020 @ 22:10:43.435 GMT] parisdekibebegbot: sa
+[11-22-2020 @ 22:10:47.895 GMT] parisdekibebegbot: sa
+[11-22-2020 @ 22:30:52.286 GMT] parisdekibebegbot: Could not pick a winner. No one entered this raffle.
+[11-22-2020 @ 22:33:28.670 GMT] parisdekibebegbot: There is no raffle in progress.
+[11-22-2020 @ 22:33:48.439 GMT] parisdekibebegg: !10
+[11-22-2020 @ 22:33:53.080 GMT] parisdekibebegbot: A raffle is now opened! Type !10 to enter. You need to have been in chat for 0 minutes  to enter. 
+[11-22-2020 @ 22:33:57.270 GMT] parisdekibebegg: !10
+[11-22-2020 @ 22:34:03.605 GMT] parisdekibebegbot: The raffle is now closed! No more entries will be counted. Use "!raffle draw" to pick a winner!
+[11-22-2020 @ 22:34:04.836 GMT] parisdekibebegbot: The winner of this raffle is parisdekibebegg! [Not a follower]
+[11-22-2020 @ 22:34:10.040 GMT] parisdekibebegbot: The winner of this raffle is parisdekibebegg! [Not a follower]
+[11-22-2020 @ 22:34:45.638 GMT] parisdekibebegbot: There is no raffle in progress.
+[11-22-2020 @ 22:34:51.126 GMT] kmehmetsalih: !10
+[11-22-2020 @ 22:34:55.117 GMT] parisdekibebegbot: A raffle is now opened! Type !10 to enter! 
+[11-22-2020 @ 22:34:59.947 GMT] kmehmetsalih: !10
+[11-22-2020 @ 22:35:08.621 GMT] parisdekibebegg: !10
+[11-22-2020 @ 22:35:14.262 GMT] parisdekibebegbot: The raffle is now closed! No more entries will be counted. Use "!raffle draw" to pick a winner!
+[11-22-2020 @ 22:35:26.326 GMT] parisdekibebegbot: @parisdekibebegg, Usage: !raffle [open / close / draw / results / subscriberbonus/ regularbonus / whisperwinner]
+[11-22-2020 @ 22:35:26.327 GMT] parisdekibebegg: !raffle
+[11-22-2020 @ 22:35:31.833 GMT] parisdekibebegbot: @parisdekibebegg, Usage: !raffle open [-usetime minutes | -usepoints entry_fee] [keyword] [close timer minutes] [-followers | -subscribers]. [keyword] required.
+[11-22-2020 @ 22:35:31.836 GMT] parisdekibebegg: !raffle open
+[11-22-2020 @ 22:35:42.447 GMT] kmehmetsalih: !clear
+[11-22-2020 @ 22:35:44.212 GMT] kmehmetsalih: !cs
+[11-22-2020 @ 22:35:46.248 GMT] kmehmetsalih: !cls
+[11-22-2020 @ 22:35:53.797 GMT] parisdekibebegbot: A raffle is now opened! Type !10 to enter! 
+[11-22-2020 @ 22:35:57.553 GMT] parisdekibebegg: !10
+[11-22-2020 @ 22:36:01.294 GMT] kmehmetsalih: !10
+[11-22-2020 @ 22:36:05.237 GMT] parisdekibebegbot: The winner of this raffle is parisdekibebegg! [Not a follower]
+[11-22-2020 @ 22:39:10.693 GMT] parisdekibebegbot: The raffle is now closed! No more entries will be counted. Use "!raffle draw" to pick a winner!
+[11-22-2020 @ 22:42:04.249 GMT] parisdekibebegbot: A raffle is now opened! Type !10 to enter! 
+[11-22-2020 @ 22:42:12.150 GMT] parisdekibebegbot: The raffle is now closed! No more entries will be counted. Use "!raffle draw" to pick a winner!
+[11-22-2020 @ 22:42:52.673 GMT] parisdekibebegbot: A raffle is now opened! Type !10 to enter! 
+[11-22-2020 @ 22:42:59.957 GMT] parisdekibebegbot: The raffle is now closed! No more entries will be counted. Use "!raffle draw" to pick a winner!
+[11-22-2020 @ 22:43:05.894 GMT] parisdekibebegbot: A raffle is now opened! Type !10 to enter! 
+[11-22-2020 @ 22:53:53.953 GMT] parisdekibebegbot: @parisdekibebegbot, That user is not on Twitch.
+[11-22-2020 @ 22:54:32.150 GMT] parisdekibebegbot: @parisdekibebegbot, That user is not on Twitch.
+[11-22-2020 @ 22:55:00.609 GMT] parisdekibebegbot: parisdekibebegg ->  Current Game: Just Chatting
+[11-22-2020 @ 22:55:00.611 GMT] parisdekibebegg: !game
+[11-22-2020 @ 22:55:24.056 GMT] parisdekibebegbot: @parisdekibebegg, parisdekibebegg is currently offline.
+[11-22-2020 @ 22:55:24.057 GMT] parisdekibebegg: !playtime
+[11-22-2020 @ 22:55:34.866 GMT] parisdekibebegbot: parisdekibebegg ->  Current Status: ÖYLESINE GIRDIM!
+[11-22-2020 @ 22:55:34.866 GMT] parisdekibebegg: !title
+[11-22-2020 @ 22:55:43.013 GMT] parisdekibebegbot: @parisdekibebegg, parisdekibebegg is currently offline.
+[11-22-2020 @ 22:55:43.015 GMT] parisdekibebegg: !uptime
+[11-22-2020 @ 22:56:04.903 GMT] streamelements: @parisdekibebegg, parisdekibebegg has been offline for 4 hours 10 mins
+[11-22-2020 @ 22:57:37.236 GMT] parisdekibebegbot: https://discord.gg/Su4mX4PZQd
+[11-22-2020 @ 22:57:37.238 GMT] parisdekibebegg: !dc
